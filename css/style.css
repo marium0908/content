@@ -1,0 +1,35 @@
+.container{
+	overflow: hidden;
+	margin:  5px;
+
+	
+}
+.container i{
+	font-size: 70px;
+	/*float: left;*/
+	width: 50%;
+	height: 100px;
+	color:black;
+	padding: 0 5px;
+	text-align: center;
+
+
+
+
+}
+.c_title{
+	text-align: center;
+	font-size: 60px;
+}
+
+
+.table table-striped{
+	background-color: lightpink;
+}
+.title{
+	text-align: center;
+	color: black;
+	font-size:70px;
+	text-underline-offset: auto;
+
+}
